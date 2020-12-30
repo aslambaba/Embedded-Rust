@@ -15,7 +15,7 @@
 - Bluetooth Module (HC05 or HC06) 
 - Serial Module
 - Bread Board
-- Jumpin Wires
+- Jumper Wires
 
 #### Installations 
 
@@ -26,7 +26,7 @@
 
 ###### For Windows
 
-- GDB [arm website](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+- GDB [download](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
 - Putty [download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - ST-Link Driver [download](https://www.st.com/en/development-tools/stsw-link009.html)
 
