@@ -1,4 +1,4 @@
-### Debug Flash Code into Micro-controller Using OpenOcd and Gdb
+## Debug Flash Code into Micro-controller Using OpenOcd and Gdb
 
 - Please Follow these instructions line by line.
 
