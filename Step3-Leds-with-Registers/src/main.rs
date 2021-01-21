@@ -1,7 +1,7 @@
 #![no_main]
 #![no_std]
 
-use::{entry}
+use aux6::{entry}
 
 ![entry]
 fn main() {

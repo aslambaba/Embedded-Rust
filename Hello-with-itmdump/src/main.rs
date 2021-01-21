@@ -2,7 +2,7 @@
 #![no_main]
 #![no_std]
 
-use::{entry,iprinln,iprinln!};
+use aux::{entry,iprinln,iprinln!};
 
 ![entry]
 fn main() {
